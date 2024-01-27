@@ -11,7 +11,7 @@
 | :---: |:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
 | GitHub |    [![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo)    |        [![eunki96](https://github.com/Jimoou.png?width=200px)](https://github.com/Jimoou)        |
 | Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
-
+<br><br>
 
 ## 📍 Progress Record
 |   주차    |      날짜      | 엄수혁 | 김지운 |
@@ -25,12 +25,13 @@
 | 1~3문제 | 1️⃣~3️⃣ |
 | 0문제 | ❌ <br/>(사유) |
 
-<br>
+<br><br>
+
 
 ## 📍 Commit Message Convention
 - ADD : 문제 풀이 파일이나 부수적인 코드 추가
     - 파일을 업로드 할 때는 다음과 같은 형식을 따라 주세요
-    - ADD : [문제 유형] 백준 ????번 풀이
+    - ADD : [문제 유형]-[Level-?] 백준 ????번 풀이
 - FIX : 코드 오류 수정
 - MOD : 코드 및 내부 파일 내용 수정
 - DEL : 쓸모없는 코드나 파일 삭제
